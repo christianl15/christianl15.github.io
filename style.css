@@ -4,7 +4,7 @@ body {
     background-size: cover;
     font-family: 'Poppins', sans-serif;
     color:burlywood;
-    margin-top:12%;
+    margin-top: 12%;
 }
 
 h1 {
@@ -19,6 +19,22 @@ hr {
     color: burlywood
 }
 
-.links {
+a {
+    color: burlywood;
     font-size: 24px;
+    text-decoration: none;
 }
+
+.github:hover {
+    text-decoration: underline;
+}
+
+
+.discord:hover {
+    text-decoration: underline;
+}
+
+.twitter:hover {
+    text-decoration: underline;
+}
+
