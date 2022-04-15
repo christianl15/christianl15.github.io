@@ -1,0 +1,23 @@
+body {
+    background-color: #f0ece4;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Poppins', sans-serif;
+    color:burlywood;
+}
+
+h1 {
+    font-size: 65px;
+}
+
+p {
+    font-size: 35px;
+}
+
+hr {
+    color: burlywood
+}
+
+.links {
+    font-size: 24px;
+}
